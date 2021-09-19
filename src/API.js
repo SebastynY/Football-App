@@ -1,4 +1,4 @@
-const KEY = "46b583d809b94961910c01c9d09adfbc";
+const KEY = "";
 
 const init = {
   headers: { "X-Auth-Token": KEY },
